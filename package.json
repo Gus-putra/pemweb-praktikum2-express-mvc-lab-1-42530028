@@ -1,0 +1,21 @@
+
+{
+  "name": "express-mvc-lab",
+  "version": "1.0.0",
+  "description": "Praktikum Express.js, EJS, dan MVC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
